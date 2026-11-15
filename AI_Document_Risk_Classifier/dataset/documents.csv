@@ -1,0 +1,141 @@
+text,label
+Employee ID and salary details,High Risk
+Employee Aadhaar card,High Risk
+Employee PAN card,High Risk
+Employee passport copy,High Risk
+Employee bank account details,High Risk
+Employee address proof,High Risk
+Employee phone number list,High Risk
+Employee medical records,High Risk
+Employee insurance details,High Risk
+Employee tax return,High Risk
+Customer credit card information,High Risk
+Customer debit card details,High Risk
+Customer bank statement,High Risk
+Customer account number,High Risk
+Customer IFSC code,High Risk
+Customer transaction history,High Risk
+Customer personal information,High Risk
+Customer KYC documents,High Risk
+Confidential financial report,High Risk
+Quarterly financial report,High Risk
+Annual balance sheet,High Risk
+Internal audit report,High Risk
+Business strategy document,High Risk
+Merger agreement,High Risk
+Legal agreement,High Risk
+Company password list,High Risk
+Server credentials,High Risk
+Database backup,High Risk
+Payroll details,High Risk
+Income tax records,High Risk
+Office holiday schedule,Low Risk
+Company newsletter,Low Risk
+Training manual,Low Risk
+Office cafeteria menu,Low Risk
+Meeting agenda,Low Risk
+Meeting invitation,Low Risk
+Meeting minutes,Low Risk
+Company brochure,Low Risk
+Public event announcement,Low Risk
+Workshop details,Low Risk
+Conference schedule,Low Risk
+Office seating plan,Low Risk
+Company mission statement,Low Risk
+Employee handbook,Low Risk
+General office notice,Low Risk
+Visitor information,Low Risk
+Public website content,Low Risk
+Product catalogue,Low Risk
+Company vision statement,Low Risk
+Office parking rules,Low Risk
+Safety guidelines,Low Risk
+Holiday calendar,Low Risk
+Press release,Low Risk
+Marketing brochure,Low Risk
+Recruitment advertisement,Low Risk
+Office map,Low Risk
+Team outing schedule,Low Risk
+Birthday celebration notice,Low Risk
+Employee sports event details,Low Risk
+Welcome letter,Low Risk
+Employee performance review,High Risk
+Employee promotion letter,High Risk
+Employee resignation letter,High Risk
+Employee joining documents,High Risk
+Employee background verification report,High Risk
+Employee biometric records,High Risk
+Employee attendance database,High Risk
+Employee payroll spreadsheet,High Risk
+Employee pension details,High Risk
+Employee loan information,High Risk
+Customer Aadhaar number,High Risk
+Customer PAN details,High Risk
+Customer passport information,High Risk
+Customer driving licence copy,High Risk
+Customer insurance policy,High Risk
+Customer loan application,High Risk
+Customer mortgage documents,High Risk
+Customer investment portfolio,High Risk
+Customer medical insurance records,High Risk
+Customer tax documents,High Risk
+Company confidential budget,High Risk
+Executive salary report,High Risk
+Board meeting confidential minutes,High Risk
+Acquisition agreement,High Risk
+Merger proposal,High Risk
+Patent application draft,High Risk
+Source code repository backup,High Risk
+Database administrator credentials,High Risk
+Cloud API keys,High Risk
+Server root password list,High Risk
+Internal security audit,High Risk
+Cybersecurity incident report,High Risk
+Legal case documents,High Risk
+Vendor bank account details,High Risk
+Supplier payment records,High Risk
+Invoice payment details,High Risk
+Employee emergency contacts,High Risk
+HR confidential records,High Risk
+Salary increment sheet,High Risk
+Personal identity documents,High Risk
+Office cleaning schedule,Low Risk
+Weekly meeting schedule,Low Risk
+Company picnic announcement,Low Risk
+Office cafeteria timings,Low Risk
+Reception visitor guide,Low Risk
+Employee birthday calendar,Low Risk
+Office dress code,Low Risk
+Public holiday notification,Low Risk
+Office WiFi instructions,Low Risk
+Printer usage guide,Low Risk
+Fire safety instructions,Low Risk
+Office evacuation plan,Low Risk
+Company introduction brochure,Low Risk
+Marketing campaign overview,Low Risk
+Product user manual,Low Risk
+Software installation guide,Low Risk
+Workshop registration details,Low Risk
+Conference invitation,Low Risk
+Training presentation,Low Risk
+Employee orientation guide,Low Risk
+Office maintenance notice,Low Risk
+Parking instructions,Low Risk
+Visitor parking map,Low Risk
+Travel guidelines,Low Risk
+Public FAQ document,Low Risk
+General policy document,Low Risk
+Company achievements newsletter,Low Risk
+Monthly events calendar,Low Risk
+Volunteer activity schedule,Low Risk
+Community service announcement,Low Risk
+Office decoration competition notice,Low Risk
+Sports tournament schedule,Low Risk
+Festival celebration notice,Low Risk
+Employee wellness program,Low Risk
+Office library rules,Low Risk
+Help desk contact information,Low Risk
+IT support guide,Low Risk
+Company social media guidelines,Low Risk
+Employee feedback form,Low Risk
+Meeting room booking instructions,Low Risk
